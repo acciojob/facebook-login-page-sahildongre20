@@ -1,1 +1,78 @@
-/*  your css code here. If applicable */
+
+body{
+font-family: 'Roboto', sans-serif;	
+	background-color:	#f0f2f5ff;
+}
+#main{
+	display: flex;
+	width:100%;
+	margin-top:100px;
+	padding:30px;
+	gap: 30px;
+}
+#logo{
+	color:#1877f2ff;
+	font-weight: 1900;
+	font-size:50px;
+	margin-bottom:-15px;
+}
+p{
+	color:black;
+	font-size:20px;
+}
+#right{
+	background-color:white;
+	padding:15px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 20px #888888;
+
+}
+input{
+	padding:15px;
+	margin-bottom:10px;
+	border-radius: 5px;
+	width:250px;
+	border: 1px solid gray;
+}
+#login{
+	color:white;
+	background-color:#1877f2ff;
+	padding:10px;
+	margin-bottom:10px;
+	border-radius: 5px;
+	width:283px;
+	border:none;
+	font-size:20px;
+	font-weight:700;
+}
+
+a{
+	text-decoration:none;
+	text-align:center;
+	display:block;
+	color:#1877f2ff;
+	font-size:14px;
+}
+
+hr{
+	width:280px;
+}
+#createAccount{
+	width:180px;
+	display:block;
+	margin:auto;
+	padding:10px;
+	font-size:15px;
+	font-weight:700;
+	border-radius: 5px;
+	border:none;
+	color:white;
+	background-color: #42b72aff;
+	
+}
+
+
+
+
+
+
